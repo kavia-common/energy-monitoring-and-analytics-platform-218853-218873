@@ -1,0 +1,4 @@
+{
+    "command": "source venv/bin/activate && pip install -r requirements.txt",
+    "working_directory": "/home/kavia/workspace/code-generation/energy-monitoring-and-analytics-platform-218853-218873/energy_monitor_backend"
+}
